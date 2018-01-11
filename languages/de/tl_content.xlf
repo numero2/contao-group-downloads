@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<xliff version="1.1">
+<file datatype="php" original="system/modules/group_downloads/languages/en/tl_content.php" source-language="en">
+<body>
+    <trans-unit id="tl_content.useGroupDir.0">
+        <source>Use group directory</source>
+        <target>Mitgliederverzeichnis verwenden</target>
+    </trans-unit>
+    <trans-unit id="tl_content.useGroupDir.1">
+        <source>Use the group directory as file source if there is an authenticated user.</source>
+        <target>Das Mitgliederverzeichnis als Dateiquelle verwenden, wenn sich ein Benutzer angemeldet hat.</target>
+    </trans-unit>
+</body>
+</file>
+</xliff>
